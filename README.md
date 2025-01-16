@@ -1,4 +1,3 @@
-**README Sample for GitHub Profile**  
 
 # Hi there! 👋 Welcome to My GitHub Profile  
 
